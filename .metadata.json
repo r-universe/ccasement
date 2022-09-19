@@ -1,9 +1,5 @@
 [
   {
-    "package": "DistPlotter",
-    "oncran": true
-  },
-  {
     "package": "NormalityAssessment",
     "oncran": true
   }
