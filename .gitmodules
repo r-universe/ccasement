@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DistPlotter"]
+	path = DistPlotter
+	url = https://github.com/ccasement/distplotter
+	shallow = true
+	registered = true
 [submodule "NormalityAssessment"]
 	path = NormalityAssessment
 	url = https://github.com/ccasement/normalityassessment
