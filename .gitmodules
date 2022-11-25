@@ -13,3 +13,8 @@
 	url = https://github.com/ccasement/normalityassessment
 	shallow = true
 	registered = true
+[submodule "StatTeacherAssistant"]
+	path = StatTeacherAssistant
+	url = https://github.com/ccasement/statteacherassistant
+	shallow = true
+	registered = true

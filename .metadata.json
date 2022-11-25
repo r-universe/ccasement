@@ -6,5 +6,9 @@
   {
     "package": "NormalityAssessment",
     "oncran": true
+  },
+  {
+    "package": "StatTeacherAssistant",
+    "oncran": true
   }
 ]
