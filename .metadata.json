@@ -1,10 +1,10 @@
 [
   {
-    "package": "DistPlotter",
+    "package": "NormalityAssessment",
     "oncran": true
   },
   {
-    "package": "NormalityAssessment",
+    "package": "DistPlotter",
     "oncran": true
   },
   {
