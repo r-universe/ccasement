@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DistPlotter"]
 	path = DistPlotter
 	url = https://github.com/ccasement/distplotter
-	shallow = true
-	registered = true
 [submodule "NormalityAssessment"]
 	path = NormalityAssessment
 	url = https://github.com/ccasement/normalityassessment
-	shallow = true
-	registered = true
 [submodule "StatTeacherAssistant"]
 	path = StatTeacherAssistant
 	url = https://github.com/ccasement/statteacherassistant
-	shallow = true
-	registered = true
