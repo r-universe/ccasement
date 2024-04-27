@@ -8,6 +8,3 @@
 [submodule "NormalityAssessment"]
 	path = NormalityAssessment
 	url = https://github.com/ccasement/normalityassessment
-[submodule "StatTeacherAssistant"]
-	path = StatTeacherAssistant
-	url = https://github.com/ccasement/statteacherassistant
